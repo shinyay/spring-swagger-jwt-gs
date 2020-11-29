@@ -1,4 +1,4 @@
-# Name
+# JWT with Spring Swagger UI
 
 Overview
 
