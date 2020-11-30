@@ -3,6 +3,13 @@
 Overview
 
 ## Description
+### Dependencies
+- io.springfox
+  - springfox-boot-starter
+
+#### Springfox
+Automated JSON API documentation for API's built with Spring
+
 
 ## Demo
 
