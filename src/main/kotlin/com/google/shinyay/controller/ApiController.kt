@@ -1,4 +1,7 @@
 package com.google.shinyay.controller
 
-class apiController {
+import org.springframework.web.bind.annotation.RestController
+
+@RestController
+class ApiController {
 }
