@@ -6,7 +6,7 @@ import java.time.ZoneId
 import java.time.ZonedDateTime
 import java.time.format.DateTimeFormatter
 
-@RestController
+@RestController("/api/v1")
 @Api(tags = ["Hello", "Default"], description = "Default Controller")
 class ApiController {
 
