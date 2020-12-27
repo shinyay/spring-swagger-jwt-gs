@@ -11,7 +11,8 @@ import java.time.format.DateTimeFormatter
 @Api(tags = ["Hello", "Default"], description = "Default Controller")
 class ApiController {
 
-    @ApiOperation(value = "This function to get Hello Response")
+    @ApiOperation(value = "This function is to get Hello Response",
+                  notes = "This function is to get Hello and Current time as Response")
     fun hello() = listOf<String>(
             "Hello",
             ZonedDateTime.now(ZoneId.of("Japan")).
