@@ -7,9 +7,20 @@ Overview
 - io.springfox
   - springfox-boot-starter
 
-#### Springfox
+### Springfox
 Automated JSON API documentation for API's built with Spring
 
+#### Annotation for Swagger
+
+|Annotation|Description|
+|----------|-----------|
+|@Api|Marks a class as a Swagger resource.|
+|||
+|||
+|||
+|||
+|||
+|||
 
 ## Demo
 
