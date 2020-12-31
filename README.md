@@ -17,7 +17,7 @@ Automated JSON API documentation for API's built with Spring
 |@Api|Marks a class as a Swagger resource|
 |@ApiImplicitParam|Represents a single parameter in an API Operation|
 |@ApiImplicitParams|A wrapper to allow a list of multiple ApiImplicitParam objects|
-|||
+|@ApiModel|Provides additional information about Swagger models|
 |||
 |||
 |||
