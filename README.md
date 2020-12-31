@@ -20,7 +20,7 @@ Automated JSON API documentation for API's built with Spring
 |@ApiModel|Provides additional information about Swagger models|
 |@ApiModelProperty|Adds and manipulates data of a model property|
 |@ApiOperation|Describes an operation or typically a HTTP method against a specific path|
-|||
+|@ApiParam|Adds additional meta-data for operation parameters|
 
 ## Demo
 
