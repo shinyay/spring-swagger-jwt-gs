@@ -24,7 +24,7 @@ Automated JSON API documentation for API's built with Spring
 |@ApiResponse|Describes a possible response of an operation|
 |@ApiResponses|A wrapper to allow a list of multiple ApiResponse objects|
 |@Authorization|Declares an authorization scheme to be used on a resource or an operation|
-
+|@AuthorizationScope|Describes an OAuth2 authorization scope|
 
 ## Demo
 
