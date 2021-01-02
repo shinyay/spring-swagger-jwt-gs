@@ -27,6 +27,10 @@ Automated JSON API documentation for API's built with Spring
 |@AuthorizationScope|Describes an OAuth2 authorization scope|
 
 ## Demo
+### Access Swagger UI
+```shell script
+$ open http://localhost:8080/swagger-ui/
+```
 
 ## Features
 
