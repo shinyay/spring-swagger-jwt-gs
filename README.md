@@ -28,9 +28,16 @@ Automated JSON API documentation for API's built with Spring
 
 ## Demo
 ### Access Swagger UI
+
+We can access the Swagger UI at the following URL:
+- http://localhost:8080/swagger-ui/
+
 ```shell script
 $ open http://localhost:8080/swagger-ui/
 ```
+
+![swagger-ui](https://user-images.githubusercontent.com/3072734/103474169-7c67ed00-4de4-11eb-9fb7-48e1647d846c.png)
+
 
 ## Features
 
